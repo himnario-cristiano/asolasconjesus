@@ -1,6 +1,6 @@
 {
-  "name": "El Me Liberó",
-  "short_name": "El Me Liberó",
+  "name": "A Solas Con Jesús",
+  "short_name": "A Solas Con Jesús",
   "description": "Reproductor de himnos y cantos cristianos",
   "start_url": "./index.html",
   "display": "standalone",
@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "el-me-libero.png",
+      "src": "a-solas-con-jesus.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "el-me-libero.png",
+      "src": "a-solas-con-jesus.png",
       "sizes": "512x512",
       "type": "image/png"
     }
