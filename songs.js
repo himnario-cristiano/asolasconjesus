@@ -125,7 +125,7 @@
             },
             {
                 title: "11 - Grande Gozo",
-                artist: ""Cuarteto Charisma,
+                artist: "Cuarteto Charisma",
 				allowDownload: false,
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
